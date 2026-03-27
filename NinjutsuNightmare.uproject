@@ -61,6 +61,10 @@
 		{
 			"Name": "TargetingSystem",
 			"Enabled": true
+		},
+		{
+			"Name": "CascadeToNiagaraConverter",
+			"Enabled": true
 		}
 	]
 }
